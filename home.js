@@ -1,7 +1,7 @@
 //alert("ok")
 function check(form)
 {
-if(form.userid.value == "a" && form.pwd.value == "a")
+if(form.userid.value == "a" && form.pwd.value == "")
 {
 
    return true;
